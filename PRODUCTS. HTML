@@ -1,0 +1,29 @@
+<html>
+ <head>
+  <title> PRODUCTS </title>
+  <style>
+BODY {BACKGROUND-COLOR=WHITE;}
+HR {BACKGROUND-COLOR=WHITE; HEIGHT=2PX;}
+H1 {COLOR=WHITE;}
+H2 {COLOR=WHITE; TEXT-ALIGN=CENTER;TEXT-DECORATION=UNDERLINE;}
+H3 {COLOR=WHITE; TEXT-ALIGN=CENTER}
+</style>
+ </head>
+ <body>
+  <h1>Apex Agencies</h1>
+  <hr>
+  Apex agencies is private cooking gas selling shop. Customers are very satisfied with our work. And we also have home deliveries which is fast and the products will be safe until we get the product. Our main customers are hotels, Cooking gas for home. And our main products are:
+  <h2>PROUDUCTS</h2>
+  <h3>Cooking gas cylinders like:
+   <br>
+   LPG,HP etc... Gas stove
+   <br>
+   Injection cookers
+   <br>
+   Gas regulators and valves
+   <br>
+   Blender
+   <br></h3>
+  <a href="HOME.HTML">  </a>
+ </body>
+</html>
